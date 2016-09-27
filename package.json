@@ -1,13 +1,13 @@
 {
-  "name": "laravel-elixir-stylus",
+  "name": "coldbox-elixir-stylus",
   "version": "2.0.3",
-  "description": "Laravel Elixir Stylus Extension",
+  "description": "ColdBox Elixir Stylus Extension",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "laravel",
+    "coldbox",
     "elixir",
     "stylus",
     "gulp"
@@ -17,10 +17,16 @@
     "url": "https://github.com/JeffreyWay/laravel-elixir-stylus"
   },
   "author": "Jeffrey Way",
+  "contributors": [
+    {
+      "name": "Eric Peterson",
+      "email": "eric@elpete.com"
+    }
+  ],
   "license": "MIT",
-  "homepage": "https://github.com/JeffreyWay/laravel-elixir-stylus",
+  "homepage": "https://github.com/elpete/coldbox-elixir-stylus",
   "bugs": {
-    "url": "https://github.com/JeffreyWay/laravel-elixir-stylus/issues"
+    "url": "https://github.com/elpete/coldbox-elixir-stylus/issues"
   },
   "dependencies": {
     "gulp-stylus": "^2.5.0",

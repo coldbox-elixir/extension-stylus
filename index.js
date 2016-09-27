@@ -1,4 +1,4 @@
-var CssTask = require('laravel-elixir/dist/tasks/CssTask').default;
+var CssTask = require('coldbox-elixir/dist/tasks/CssTask').default;
 
 /*
  |----------------------------------------------------------------
